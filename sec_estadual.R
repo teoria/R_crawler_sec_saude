@@ -16,3 +16,4 @@ for(i in 1:length(estados)){
         write(html_estado, paste("./secretarias_saude/",nomes[i],".html",sep = "") )
 }
  
+
